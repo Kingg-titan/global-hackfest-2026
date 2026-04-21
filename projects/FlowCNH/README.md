@@ -70,7 +70,7 @@ Worker calls claim() → gas sponsored → AxCNH arrives instantly
 
 ## Team
 
-- Kingg-titan — Smart Contract & Full-Stack Developer
+- **Ebuka Egbunike** — Smart Contract & Full-Stack Developer (GitHub: [@Kingg-titan](https://github.com/Kingg-titan))
 
 ## Prize Targets
 
